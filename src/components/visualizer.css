@@ -1,0 +1,55 @@
+.full-grid {
+    margin-left: 330px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.nodeGrid {
+    max-width: 100%;
+    margin-right: 10px;
+}
+
+.grid {
+    display: flex;
+}
+
+.mybutton {
+    margin-left: 0.5px;
+    margin-right: 0.5px;
+    background-color: white;
+    color: #167af6;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.mybutton:hover {
+    background-color: #167af6;
+    color: white;
+}
+
+.a-selector {
+    background-color: #167af6;
+    color: white;
+}
+
+.a-selector:hover {
+    background-color: #167af6;
+    color: white;
+}
+
+.shortest-path-length {
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-size: x-large;
+    font-weight: 600;
+    color: red;
+    text-align: justify;
+}
+
+.path-not-found {
+    color: red;
+}
+
+.path-found {
+    color: #167af1;
+}

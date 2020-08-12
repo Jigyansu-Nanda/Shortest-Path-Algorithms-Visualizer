@@ -1,0 +1,162 @@
+.node {
+    width: 65px;
+    height: 55px;
+    background-color: white;
+    border: 1px double #bbe1fa;
+}
+
+.node-other {
+    width: 65px;
+    height: 55px;
+    background-color: white;
+    border: 1px double #bbe1fa;
+}
+
+.node-src {
+    width: 65px;
+    height: 55px;
+    background-color: #ffee31;
+    border: 1px double #ffee31;
+}
+
+.node-dst {
+    width: 65px;
+    height: 55px;
+    background-color: #79d70f;
+    border: 1px double #79d70f;
+}
+
+.weighted {
+    color: black;
+    margin-top: 15px;
+    margin-bottom: 18px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+/* For BFS Animation */
+
+.bfs-processed {
+    width: 65px;
+    height: 55px;
+    transition : background-color 0.04s ease-in-out;
+	background-color: #fa744f;
+    border: 1px double #fa744f;
+}
+
+.bfs-processing {
+    width: 65px;
+    height: 55px;
+    transition : background-color 0.04s ease-in-out;
+	background-color: #12cad6;
+    border: 1px double #ffee31;
+}
+
+.bfs-shortest-path {
+    width: 65px;
+    height: 55px;
+    transition : background-color 0.09s linear;
+	background-color: #c4fb6d;
+    border: 1px double #c4fb6d;
+    animation-fill-mode: forwards;
+}
+
+/* For Dijkstra Animation */
+
+.dijkstra-processed {
+    width: 65px;
+    height: 55px;
+    transition : background-color 0.09s ease-in-out;
+	background-color: #fa744f;
+    border: 1px double #fa744f;
+}
+
+.dijkstra-processing {
+    width: 65px;
+    height: 55px;
+    transition : background-color 0.09s ease-in-out;
+	background-color: #12cad6;
+    border: 1px double #ffee31;
+}
+
+.dijkstra-shortest-path {
+    width: 65px;
+    height: 55px;
+    transition : background-color 0.09s linear;
+	background-color: #c4fb6d;
+    border: 1px double #c4fb6d;
+    animation-fill-mode: forwards;
+}
+
+/* for Bellman Ford Animation */
+
+.bellman-ford-processed {
+    width: 65px;
+    height: 55px;
+    transition : background-color 0.09s ease-in-out;
+	background-color: #fa744f;
+    border: 1px double #fa744f;
+}
+
+.bellman-ford-processing {
+    width: 65px;
+    height: 55px;
+    transition : background-color 0.09s ease-in-out;
+	background-color: #12cad6;
+    border: 1px double #ffee31;
+}
+
+.bellman-ford-shortest-path {
+    width: 65px;
+    height: 55px;
+    transition : background-color 0.09s linear;
+	background-color: #c4fb6d;
+    border: 1px double #c4fb6d;
+    animation-fill-mode: forwards;
+}
+
+/* for Floyd Warshall Animation */
+
+.fw-processed {
+    width: 65px;
+    height: 55px;
+    transition : background-color 0.04s ease-in-out;
+	/* background-color: #fa744f;
+    border: 1px double #fa744f; */
+    background-color: #ac8daf;
+    border: 1px double #ac8daf;
+}
+
+.fw-src-processing {
+    width: 65px;
+    height: 55px;
+    transition : background-color 0.04s ease-in-out;
+	background-color: #ea907a;
+    border: 1px double #fa744f;
+}
+
+.fw-imd-processing {
+    width: 65px;
+    height: 55px;
+    transition : background-color 0.04s ease-in-out;
+	background-color: #b2ebf2;
+    border: 1px double #fa744f;
+}
+
+.fw-dst-processing {
+    width: 65px;
+    height: 55px;
+    transition : background-color 0.04s ease-in-out;
+	background-color: #4f8a8b;
+    border: 1px double #fa744f;
+}
+
+.fw-shortest-path {
+    width: 65px;
+    height: 55px;
+    transition : background-color 0.04s linear;
+	background-color: #c4fb6d;
+    border: 1px double #c4fb6d;
+    animation-fill-mode: forwards;
+}
