@@ -1,6 +1,6 @@
 ![Preview of Bellman-Ford Algorithm Visualization](https://github.com/Jigyansu-Nanda/Shortest-Path-Algorithms-Visualizer/blob/source-code/preview.png "preview of Bellman Ford Shortest Path")
 # Shortest Path Algorithms Visualizer
-**Live version of this web application: [Shortest Path Algorithms Visualizer.](https://jigyansu-nanda.github.io/Shortest-Path-Algorithms-Visualizer/)** <br/><br/>
+### Live version of this web application: [Shortest Path Algorithms Visualizer.](https://jigyansu-nanda.github.io/Shortest-Path-Algorithms-Visualizer/)
 Welcome to Shortest Path Algorithms Visualizer. This is a visualization tool to help you visualize how the algorithms, used for solving Shortest Path Problem, work in real time. [Shortest Path Problem](https://en.wikipedia.org/wiki/Shortest_path_problem) in graph theory, is a [Combinatorial Optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization) problem. The problem requires one, to find a path between a source vertex and a destination vertex, such that travelling through the found path, costs the least. The weight of an edge joining two vertices is attributed as the cost of tarvelling between those two vertices in the graph.
 
 ## Graph in the visualizer
@@ -15,11 +15,11 @@ The Visualizer computes the shortest path between a source vertex and a destinat
 This visualizer implements 4 shortest path finding algorithms:
 
   - For unweighted Graph
-    - Breadth First Search
+    - [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
   - For weighted Graph
-    - Dijkstra's Algorithm
-    - Bellman Ford Algorithm
-    - Floyd Warshall Algorithm
+    - [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+    - [Bellman Ford Algorithm](https://en.wikipedia.org/wiki/Bellman–Ford_algorithm)
+    - [Floyd Warshall Algorithm](https://en.wikipedia.org/wiki/Floyd–Warshall_algorithm)
 
 # Instructions
 Follow these instructions for visualization.
