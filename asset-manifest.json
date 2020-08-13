@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shortest-Path-Algorithms-Visualizer/static/css/main.27f854d5.chunk.css",
+    "main.js": "/Shortest-Path-Algorithms-Visualizer/static/js/main.a643a40b.chunk.js",
+    "main.js.map": "/Shortest-Path-Algorithms-Visualizer/static/js/main.a643a40b.chunk.js.map",
+    "runtime-main.js": "/Shortest-Path-Algorithms-Visualizer/static/js/runtime-main.c6953a95.js",
+    "runtime-main.js.map": "/Shortest-Path-Algorithms-Visualizer/static/js/runtime-main.c6953a95.js.map",
+    "static/js/2.832f7da2.chunk.js": "/Shortest-Path-Algorithms-Visualizer/static/js/2.832f7da2.chunk.js",
+    "static/js/2.832f7da2.chunk.js.map": "/Shortest-Path-Algorithms-Visualizer/static/js/2.832f7da2.chunk.js.map",
+    "index.html": "/Shortest-Path-Algorithms-Visualizer/index.html",
+    "precache-manifest.56f9baaf56f8bd8bf94e70b77d853b7c.js": "/Shortest-Path-Algorithms-Visualizer/precache-manifest.56f9baaf56f8bd8bf94e70b77d853b7c.js",
+    "service-worker.js": "/Shortest-Path-Algorithms-Visualizer/service-worker.js",
+    "static/css/main.27f854d5.chunk.css.map": "/Shortest-Path-Algorithms-Visualizer/static/css/main.27f854d5.chunk.css.map",
+    "static/js/2.832f7da2.chunk.js.LICENSE.txt": "/Shortest-Path-Algorithms-Visualizer/static/js/2.832f7da2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6953a95.js",
+    "static/js/2.832f7da2.chunk.js",
+    "static/css/main.27f854d5.chunk.css",
+    "static/js/main.a643a40b.chunk.js"
+  ]
+}
