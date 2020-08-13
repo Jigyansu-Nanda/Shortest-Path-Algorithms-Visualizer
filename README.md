@@ -1,3 +1,4 @@
+![Preview of Bellman-Ford Algorithm Visualization](https://github.com/Jigyansu-Nanda/Shortest-Path-Algorithms-Visualizer/blob/source-code/preview.png)
 # Shortest Path Algorithms Visualizer
 Welcome to Shortest Path Algorithms Visualizer. This is a tool to help you visualize how the algorithms, used for solving Shortest Path Problem, work in real time.
 
