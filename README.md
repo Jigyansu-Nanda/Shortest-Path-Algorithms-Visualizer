@@ -1,8 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+# Shortest Path Algorithms Visualizer
+Welcome to Shortest Path Algorithms Visualizer. This is a tool to help you visualize how the algorithms, used for solving Shortest Path Problem, work in real time.
 
 ### `npm start`
 
