@@ -14,9 +14,9 @@ The Visualizer computes the shortest path between a source vertex and a destinat
 ## Implemented Algorithms
 This visualizer implements 4 shortest path finding algorithms:
 
-  - For unweighted Graph
+  - **For unweighted Graph**
     - [Breadth First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
-  - For weighted Graph
+  - **For weighted Graph**
     - [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
     - [Bellman Ford Algorithm](https://en.wikipedia.org/wiki/Bellman–Ford_algorithm)
     - [Floyd Warshall Algorithm](https://en.wikipedia.org/wiki/Floyd–Warshall_algorithm)
